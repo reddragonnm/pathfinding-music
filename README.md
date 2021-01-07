@@ -2,10 +2,10 @@
 
 To run this program in your PC 
 
-1. Clone the repo
-2. Install pygame 
+## 1. Clone the repo
+## 2. Install pygame 
 `pip install pygame`
-3. Download discord's easter egg music files 
+## 3. Download discord's easter egg music files 
 
 Given in this [reddit post](https://www.reddit.com/r/discordapp/comments/bdnz70/where_would_i_find_discords_sound_files/)
 
@@ -17,4 +17,4 @@ Files needed:
   
 Rename the respective files as up.mp3, right.mp3, left.mp3 and down.mp3
 
-4. Run pathfinding.py and enjoy!
+## 4. Run pathfinding.py and enjoy!
