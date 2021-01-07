@@ -1,6 +1,6 @@
 # pathfinding-music
 
-To run this program in your PC 
+To run this program on your PC 
 
 ### 1. Clone the repo
 ### 2. Install pygame 
