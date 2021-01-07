@@ -21,10 +21,10 @@ n_tiles = 30
 tile_size = dim // n_tiles
 bg_color = colors['lightblue']
 
-up = 'up.mp3'
-down = 'down.mp3'
-left = 'left.mp3'
-right = 'right.mp3'
+up = 'music/up.mp3'
+down = 'music/down.mp3'
+left = 'music/left.mp3'
+right = 'music/right.mp3'
 
 screen = pg.display.set_mode((dim, dim))
 pg.display.set_caption('Pathfinding')
