@@ -56,9 +56,7 @@ class Node:
         if random() < 0.2:
             self.state = NodeState.wall
 
-        self.parent = None
         self.in_path = False
-
         self.music = None
 
     def show(self, screen):
